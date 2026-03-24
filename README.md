@@ -18,3 +18,6 @@ Download the Excel dashboard here:
 
 ## 📸 Preview
 <img width="1344" height="719" alt="image" src="https://github.com/user-attachments/assets/bb68053b-7588-4a02-a7ee-444e25598fd8" />
+
+**Author:** Babatunde Raphael Deyon  
+**Learning Focus:** Data Analytics (Excel & Power BI)
