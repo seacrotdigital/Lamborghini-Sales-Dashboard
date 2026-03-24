@@ -45,7 +45,7 @@ Download the Excel dashboard here:
 ---
 
 ## 🖼 Dashboard Preview
-<img width="1344" height="719" alt="image" src="https://github.com/user-attachments/assets/bb68053b-7588-4a02-a7ee-444e25598fd8" />
+![Dashboard Preview](dashboard.png)
 
 ---
 
